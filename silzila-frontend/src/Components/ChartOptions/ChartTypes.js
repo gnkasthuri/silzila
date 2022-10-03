@@ -62,7 +62,7 @@ export const chartTypes = [
 	// { name: "geoChart", icon: geoChartIcon, value: "Geo Chart" },
 	{ name: "calendar", icon: calendarChartIcon, value: "Calendar Chart" },
 	{ name: "boxPlot", icon: boxPlotIcon, value: "Box Plot Chart" },
-	// { name: "richText", icon: TextEditorIcon, value: "Rich Text" },
+	{ name: "richText", icon: TextEditorIcon, value: "Rich Text" },
 	{ name: "sankey", icon: Sankey, value: "Sankey Chart" },
 ];
 
